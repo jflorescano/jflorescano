@@ -7,6 +7,7 @@
  <div id="header" align="left">
 
 ### :woman_technologist: Sobre mí :
+Mi mayor área de interés es el desarrollo de proyectos de investigación relacionados con el campo de la bioingenieria, utilizando la tecnología y sobre todo las herramientas informaticas para mejorar la calidad de vida de los pacientes. 
 <!--
 **jflorescano/jflorescano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
