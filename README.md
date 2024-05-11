@@ -1,4 +1,4 @@
-### Joana Florescano Olguín 
+
 ### Bioingeniera | Quality Assurance Engineer
 
 <div id="header" align="center">
