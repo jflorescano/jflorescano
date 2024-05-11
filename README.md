@@ -5,9 +5,10 @@
   <img decoding="async" src="https://github.com/jflorescano/jflorescano/blob/main/banner.jpg" width="800"/>
 </div>
 
-
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joanaflorescano/)
 
+<div id="badges" align="center">
+<img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=noelianav91.noelianav91&color=00cf00" alt=""/>
 ---
  <div id="header" align="left">
 
