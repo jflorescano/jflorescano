@@ -20,5 +20,5 @@ Postman - Selenium - Android Studio - APIS - JIRA - Python - SQL - Linux - Matla
 Office - Pandas - Matplotlib - Numpy
 
 ### :hammer_and_wrench: Idiomas :
-Inglés C2
+Inglés C1
 
